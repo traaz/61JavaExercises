@@ -1,4 +1,4 @@
-//kaclık ucgen olusturmak(yildizlarla) istediğini girdigin fonksiyon(sola dayali) yaz.
+//kaclÃ½k ucgen(sola dayali) olusturmak(yildizlarla) istediÃ°ini girdigin fonksiyon yaz.
 package E40;
 
 public class Main {
