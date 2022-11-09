@@ -19,12 +19,5 @@ public class main {
 		System.out.println(ikinciBuyuk);
 
 	}
-	/*int[] array= {1,20,5,10,100};
-	Arrays.sort(array);
-	System.out.println(array[array.lenght-2]);
-	for (int i = 0; i < array.length; i++) {
-		System.out.println(array[array.length-2]);
-		break;
-	}*/
-
+	
 }
